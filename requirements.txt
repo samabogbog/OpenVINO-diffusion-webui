@@ -1,0 +1,6 @@
+optimum-intel==1.23.0
+openvino==2025.1.0
+diffusers==0.33.1
+torch==2.7.0
+tqdm==4.67.1
+gradio==5.33.0

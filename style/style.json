@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Anime Chibi",
+        "prompt": "Anime Chibi style of {prompt}, Kawaii, Cute Chibi, Concept art, 2.5D Anime",
+        "negative_prompt": "bad anatomy, ugly, realistic, text, deformed"
+    },
+    {
+        "name": "Astral Aura",
+        "prompt": "Astral Aura, {prompt}, astral, colorful aura, vibrant energy",
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+    },
+    {
+        "name": "Fantasy Art",
+        "prompt": "Ethereal fantasy concept art of {prompt}, magnificent, ethereal, magical, fantasy art, dreamy",
+        "negative_prompt": "photographic, dslr, deformed, ugly"
+    },
+    {
+        "name": "3D Animation",
+        "prompt": "3D animation film of {prompt}, pixar, animation, 3d rendering, 3d model",
+        "negative_prompt": "low poly, painting, deformed, bad anatomy, ugly"
+    },
+    {
+        "name": "Watercolor",
+        "prompt": "Water color painting of {prompt}, painting art, color painting, gradient, brushstrokes, texture",
+        "negative_prompt": "photographic, realistic, 3d, frame, text"
+    }
+]
