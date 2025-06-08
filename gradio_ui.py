@@ -4,7 +4,7 @@ from image_generator import get_models, generate_images, styles
 def create_gradio_interface():
 
     with gr.Blocks() as demo:
-        gr.Markdown("# 🎨 NinjaGenAI")
+        gr.Markdown("# 🎨 OpenVINO web UI")
         
         available_models = get_models()
         default_model = available_models[0] if available_models else None
