@@ -8,7 +8,7 @@
   - Open a command prompt in the folder where you want to store the project.
   - Run the following command to clone the repository:
   ```
-  git clone https://github.com/samabogbog/OpenVINO-webui.git
+  git clone https://github.com/samabogbog/OpenVINO-diffusion-webui.git
   ```
 ### 3. Download the Model
   - Download the model from Hugging Face:
