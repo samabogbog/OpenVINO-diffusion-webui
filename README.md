@@ -1,3 +1,8 @@
+## OpenVINO Diffusion Web UI
+
+![](screenshots/1.png)
+![](screenshots/2.png)
+
 ## Installation and Running
 
 ### 1. Install Python 3.12.6
