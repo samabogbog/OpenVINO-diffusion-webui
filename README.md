@@ -26,7 +26,7 @@
 
 ### 4. Activate the virtual environment and Install the required dependencies
   ```
-  cd OpenVINO-webui
+  cd OpenVINO-diffusion-webui
   ```
   ```
   python -m venv venv
